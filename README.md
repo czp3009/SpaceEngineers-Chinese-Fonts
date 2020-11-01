@@ -1,4 +1,2 @@
 ﻿# 211SE Chinese Fonts
-A Space Engineers mod.
-
-This mod fix chinese text display problem.
+修复中文字体显示不全的问题
